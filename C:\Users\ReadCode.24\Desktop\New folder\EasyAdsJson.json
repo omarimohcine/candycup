@@ -11,7 +11,7 @@
     "UseAdsIn_MySQl": false,
     "UseAdsIn_Googledrive": false,
     "EditorFirebaseFileUrl": "",
-    "EditorGithubFileUrl": "",
+    "EditorGithubFileUrl": "https://raw.githubusercontent.com/omarimohcine/candycup/main/C%3A%5CUsers%5CReadCode.24%5CDesktop%5CNew%20folder%5CEasyAdsJson.json",
     "EditorJumpShareFileUrl": "",
     "EditorMediafireFileUrl": "",
     "Editorfiles_fmFileUrl": "",
@@ -54,6 +54,29 @@
         "UseEasyIronSource": false,
         "AppKey": "",
         "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyMoPub": {
+        "UseEasyMoPub": false,
+        "BannerAdUnit": "",
+        "InterstitialAdUnit": "",
+        "RewardedVideoAdUnit": ""
+    },
+    "EasyUnityAds": {
+        "UseEasyUnityAds": true,
+        "UnityAdsId": "4413593",
+        "BannerPlacement": "Banner_Android",
+        "VideoAdPlacement": "Interstitial_Android",
+        "RewardedVideoAdPlacement": "Rewarded_Android"
+    },
+    "EasyVungle": {
+        "UseEasyVungle": true,
+        "AppID": "616eb4e89723caedfe8e7100",
+        "RewardedPlacementId": "",
+        "InterstitialPlacementID": "DEFAULTINTER-6554753"
+    }
+}
         "InterstitialAdUnit": "",
         "RewardedVideoAdUnit": ""
     },
